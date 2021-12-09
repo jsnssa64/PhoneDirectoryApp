@@ -1,1 +1,0 @@
-var phoneDirectoryApp = app.Module('phoneDirectoryApp', ['phoneDirectory']);
